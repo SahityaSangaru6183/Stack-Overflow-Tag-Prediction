@@ -26,7 +26,7 @@ The project was developed using the following technologies:
 
 ## 🗃️ Dataset
 
-- Source: [Stack Overflow Tag Prediction Dataset](https://www.kaggle.com/datasets)
+- Source: [Stack Overflow Tag Prediction Dataset](https://stackoverflow.com/questions)
 - Includes:  
   - `title` – Short summary of the question  
   - `body` – Full content of the question  
